@@ -1,0 +1,4 @@
+[core]
+    remote = dvcs3bucketdemo
+['remote "dvcs3bucketdemo"']
+    url = s3://emotion-detection-with-aws
