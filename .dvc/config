@@ -1,4 +1,6 @@
 [core]
     remote = dvcstore
+
 ['remote "dvcstore"']
     url = s3://emotion-detection-with-aws
+    endpointurl = https://s3.ap-south-1.amazonaws.com
